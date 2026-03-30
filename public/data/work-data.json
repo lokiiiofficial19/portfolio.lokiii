@@ -1,0 +1,34 @@
+{
+  "workData": [
+     {
+      "image": "/images/work/todolist1.jpg",
+      "title": "To-Do List App",
+      "tech": "JavaScript • HTML • CSS",
+      "github": "https://github.com/lokiiiofficial19/todo-app",
+      "live": "https://lokiiofficial1337.neocities.org/demo"
+      
+    },
+  
+    {
+      "image": "/images/work/e-commerce.webp",
+      "title": "E-Commerce Website",
+      "tech": "Next.js • Tailwind CSS",
+      "github": "https://github.com/lokiiiofficial19/portfolio-new",
+      "live": "https://lokiiofficial1337.neocities.org/loki.html/"
+    },
+     {
+      "image": "/images/work/hero-illustration.svg",
+      "title": "House Rent & Sell System",
+      "tech": "React • JavaScript • CSS",
+      "github": "https://github.com/lokiiiofficial19/your-repo",
+      "live": "https://lokiiofficial1337.neocities.org/house%20&%20rent/"
+    },
+    {
+      "image": "/images/work/work-img-4.jpg",
+      "title": "Java Console Application",
+      "tech": "Java • OOP",
+      "github": "https://github.com/lokiiiofficial19/java-project",
+      "live": "#"
+    }
+  ]
+}
