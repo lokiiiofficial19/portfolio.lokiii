@@ -1,5 +1,5 @@
 "use client";
-import { getImgPath } from "@/utils/image";
+import { getImgPath } from "../../../../utils/image";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -29,7 +29,7 @@ const ContactBar = () => {
 
               {/* Phone */}
               <a
-                href="tel:91+ 9962969975"
+                href="tel:91+9962969975"
                 className="flex items-center gap-2 lg:gap-3 text-sm md:text-base hover:text-primary"
               >
                 <Image
@@ -68,7 +68,7 @@ const ContactBar = () => {
               </Link>
 
               {/* LinkedIn */}
-              <Link href="www.linkedin.com/in/lokiiiofficial1337" target="_blank">
+              <Link href="https://www.linkedin.com/in/lokiiiofficial1337" target="_blank">
                 <Image
                   src={getImgPath("/images/icon/linkedin-icon.svg")}
                   alt="linkedin"
