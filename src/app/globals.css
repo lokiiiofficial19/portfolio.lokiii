@@ -74,7 +74,7 @@ button:hover::before {
     @apply text-secondary text-sm font-normal;
   }
   .input {
-    @apply w-full border-b border-gray focus:border-primary focus:outline-none py-2;
+    @apply border-gray-300;
   }
 }
 
