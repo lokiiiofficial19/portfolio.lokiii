@@ -1,7 +1,6 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
+@custom-variant dark (&:is(.dark *));
 
 html {
   scroll-behavior: smooth;
@@ -53,7 +52,6 @@ button:hover::before {
 
 
 @theme {
-  :root {
   --color-primary: #FE4300;
   --color-secondary: #868686;
   --color-softGray: #F0F0F0;
@@ -62,8 +60,6 @@ button:hover::before {
 
   --breakpoint-xs: 425px;
 }
-}
-
 
 @layer utilities {
   .container {
