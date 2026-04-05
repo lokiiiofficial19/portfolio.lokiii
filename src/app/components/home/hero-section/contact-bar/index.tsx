@@ -1,5 +1,5 @@
 "use client";
-import { getImgPath } from "../../../../utils/image";
+import { getImgPath } from "@/utils/image";
 import Image from "next/image";
 import Link from "next/link";
 
